@@ -5,3 +5,5 @@ Script 0 prints absolute path name of current working directory
 Script 1 lists contents of current directory
 
 Script 2 changes working directoy to home directory
+
+Script 3 displays current directory contents in long format
