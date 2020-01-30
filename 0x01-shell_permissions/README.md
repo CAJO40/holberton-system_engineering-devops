@@ -13,3 +13,5 @@ Script 4 creates empty file hello
 Script 5 add execute permission to owner
 
 Script 6 gives execute permission to owner/group owner, read to others
+
+Script 7 gives execute permission to all
