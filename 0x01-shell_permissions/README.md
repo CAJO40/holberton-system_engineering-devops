@@ -19,3 +19,5 @@ Script 7 gives execute permission to all
 Script 8 sets permissions
 
 Script 9 sets mode of file hello
+
+Script 10 mirrors permission mode of file olleh to file hello 
