@@ -24,3 +24,5 @@ Script 10 mirrors permission mode of file olleh to file hello
 
 Script 11 adds execute permission for all users to subdirectories only
 
+Script 12 creates new directory with permissions
+
