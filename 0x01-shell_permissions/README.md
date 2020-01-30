@@ -20,4 +20,7 @@ Script 8 sets permissions
 
 Script 9 sets mode of file hello
 
-Script 10 mirrors permission mode of file olleh to file hello 
+Script 10 mirrors permission mode of file olleh to file hello
+
+Script 11 adds execute permission for all users to subdirectories only
+
