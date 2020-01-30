@@ -28,3 +28,5 @@ Script 12 creates new directory with permissions
 
 Script 13 changes group owner to holberton
 
+Script 14 changes owner and group owner
+
