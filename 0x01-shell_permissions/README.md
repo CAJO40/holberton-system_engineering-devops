@@ -17,3 +17,5 @@ Script 6 gives execute permission to owner/group owner, read to others
 Script 7 gives execute permission to all
 
 Script 8 sets permissions
+
+Script 9 sets mode of file hello
