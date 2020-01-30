@@ -30,3 +30,5 @@ Script 13 changes group owner to holberton
 
 Script 14 changes owner and group owner
 
+Script 15 changes owner and group owner for file hello
+
