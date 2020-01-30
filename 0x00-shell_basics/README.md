@@ -19,3 +19,5 @@ Script 7 moves /tmp/betty to /tmp/holberton/betty
 Script 8 deletes /tmp/holberton/betty
 
 Script 9 deletes /tmp/holberton directory
+
+Script 10 changes working directory to previous one
