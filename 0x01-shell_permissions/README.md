@@ -9,3 +9,5 @@ Script 2 prints all groups current user is a part of
 Script 3 changes owner of file
 
 Script 4 creates empty file hello
+
+Script 5 add execute permission to owner
