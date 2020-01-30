@@ -23,3 +23,5 @@ Script 9 deletes /tmp/holberton directory
 Script 10 changes working directory to previous one
 
 Script 11 lists all files and directories in long format
+
+Script 12 prints type of file /tmp/iamafile
