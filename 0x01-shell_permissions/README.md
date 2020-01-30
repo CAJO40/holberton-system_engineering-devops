@@ -32,3 +32,4 @@ Script 14 changes owner and group owner
 
 Script 15 changes owner and group owner for file hello
 
+Script 15 changes owner of file hello to betty
