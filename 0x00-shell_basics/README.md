@@ -13,3 +13,5 @@ Script 4 displays long format current directory contents + hidden files
 Script 5 displays long format w/user and group IDs + hidden files
 
 Script 6 creates holberton directory in tmp directory
+
+Script 7 moves /tmp/betty to /tmp/holberton/betty
