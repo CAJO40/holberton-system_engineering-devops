@@ -31,3 +31,5 @@ Script 13 creates a symbolic link to /bin/ls
 Script 14 copies HTML files from current directory to parent
 
 Script 15 moves all uppercase letters to /tmp/u
+
+Script 16 deletes all in current directory ending with ~
