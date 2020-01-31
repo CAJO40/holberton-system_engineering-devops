@@ -33,3 +33,6 @@ Script 14 copies HTML files from current directory to parent
 Script 15 moves all uppercase letters to /tmp/u
 
 Script 16 deletes all in current directory ending with ~
+
+Script 17 makes new directories in current directory
+
