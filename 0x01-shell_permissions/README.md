@@ -32,4 +32,6 @@ Script 14 changes owner and group owner
 
 Script 15 changes owner and group owner for file hello
 
-Script 15 changes owner of file hello to betty
+Script 16 changes owner of file hello to betty
+
+Script 17 displays Star Wars IV episodes via terminal
