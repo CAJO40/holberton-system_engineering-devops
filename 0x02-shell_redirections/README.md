@@ -1,7 +1,9 @@
 This is my Shell Redirections project
 
-Script 0 printed "Hello, World"
+Script 0 prints "Hello, World"
 
-Script 1 printed confused smiley
+Script 1 prints confused smiley
+
+Script 2 displays content of /etc/passwd file
 
 
