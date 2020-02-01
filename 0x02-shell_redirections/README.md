@@ -12,4 +12,6 @@ Script 4 displays last 10 lines of /etc/passwd
 
 Script 5 displays first 10 lines of /etc/passwd
 
+Script 6 displays line 3 of iacta file
+
 
