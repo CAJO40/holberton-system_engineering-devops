@@ -10,4 +10,6 @@ Script 3 displays content of /etc/passwd /etc/hosts
 
 Script 4 displays last 10 lines of /etc/passwd
 
+Script 5 displays first 10 lines of /etc/passwd
+
 
