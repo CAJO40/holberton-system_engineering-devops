@@ -37,3 +37,5 @@ Script 16 deletes all in current directory ending with ~
 Script 17 makes new directories in current directory
 
 Script 18 lists all files and directories separated by commas in current directory
+
+Script 19 created magic file for Holberton
