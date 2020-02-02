@@ -32,3 +32,18 @@ Script 14 displays lines containing "root" in /etc/passwd file
 
 Script 15 displays lines containing "bin" in /etc/passwd file
 
+Script 16 displays lines containing "root" & 3 lines after them
+
+Script 17 displays all lines not containing "bin" in /etc/passwd
+
+Script 18 displays all lines starting with a letter in /etc/ssh/sshd_config
+
+Script 19 replaces (A,c) - (Z,e) respectively
+
+Script 20 removes all c and C letters from input
+
+Script 21 reverses input 
+
+Script 22 displays all users w/ their home directories, sorted by user
+
+ 
