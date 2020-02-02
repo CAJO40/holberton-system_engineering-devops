@@ -22,3 +22,13 @@ Script 9 duplicates last line of /iacta
 
 Script 10 deletes all regular files w/ .js extension
 
+Script 11 counts all directories and sub-directories in current directory
+
+Script 12 displays 10 newest files in current directory
+
+Script 13 removes duplicates
+
+Script 14 displays lines containing "root" in /etc/passwd file
+
+Script 15 displays lines containing "bin" in /etc/passwd file
+
